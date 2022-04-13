@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Blog kul de Ana Aguilar"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Aquí pondré mis experiencias en node JS'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Este es mi primer día en node JS, espero los demas dias esten llenos de aprendizajes!
