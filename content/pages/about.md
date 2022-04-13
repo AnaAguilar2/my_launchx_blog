@@ -5,17 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Who am I Ana 
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Hola gente, mi nombre es Ana Aguilar
+> Tengo 21 años y estudio en la facultad de Telemática 
+> Soy de Colima, nacida en Jalisco:D
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Ana** TEngo 3 bonitas perritas, me encanta tomar té, hacer infusiones, tizanas y aguitas con flores y frutas, además me guta el mundo de la programación y actualmente estudio el último sememstre de la carrera de ingeníeria en telemática, me gusta mucho el mar y la montaña, programo desde hace tiempo aunque aún no comienzo una carrera laboral en ello, espero algún día ser una gran profesional del TI.
 
